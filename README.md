@@ -8,6 +8,6 @@ The last thing was to add the accessibilty standards to the images using the Alt
 
 Because this was the first project and I was so confused in this course at the beginning, I did not even know what my assignment was asking me to do??  Our class moves very fast and the pieces of the puzzle were just scattered in the beginning.  Things are beginning to make a little more sense but a long way to go!
 
-
+https://pknola.github.io/Module-1-RefactorCode/
 
 ![image](https://github.com/pknola/Module-1-RefactorCode/assets/129346283/1dc97295-4367-4118-b5f8-24bc4c0996f0)
